@@ -1,0 +1,46 @@
+body {
+  background-image: url(/8197-[Converted].png);
+  background-color: #404040;
+}
+
+.h1 {
+  padding-top: 50px;
+  align-self: center;
+  font-size: rem;
+}
+
+.h1color {
+  background-color: #393e41;
+  color: #d3d0cb;
+}
+
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.card img {
+  max-width: 500px;
+}
+
+.card {
+  max-width: 500px;
+}
+
+.card-title {
+  height: 75px;
+  background-color: #393e41;
+  color: #d3d0cb;
+  text-align: center;
+  align-content: center;
+}
+
+.card-text {
+  height: 300px;
+  align-content: center;
+  text-align: justify;
+}
+
+.nav-item {
+  font-size: x-large;
+}
